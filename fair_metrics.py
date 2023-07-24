@@ -79,8 +79,9 @@ def plot_svc_decision_function(model, ax=None, plot_support=True):
     ax.set_xlim(xlim)
     ax.set_ylim(ylim)
     
+ 
+  
     
-
     
 
     
